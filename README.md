@@ -8,7 +8,7 @@
 
 <h2 align="Center">  Hi there!  I'm Muttakim Sifat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<h3 align="center">🚀 Ethical Hacker | CTF Player | Cyber Security Analyst | Forensic Expert 🚀</h3>
+<h3 align="center">🚀 Ethical Hacker | CTF Player | Red Team Enthusiast | Forensic Expert 🚀</h3>
 <div>
 <br>
 <hr>
