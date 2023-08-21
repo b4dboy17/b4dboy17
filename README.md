@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="Center">  Hi there!  I'm Muttakim Sifat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h2 align="Center">  Hi there!  I'm Sifat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <h3 align="center">🚀 Ethical Hacker | CTF Player | Red Team Enthusiast | Forensic Expert 🚀</h3>
 <div>
@@ -34,23 +34,23 @@
 
 <hr>
 
-<a href="https://github.com/badboy-sft/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=badboy-sft&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/badboy-sft/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=b4dboy17&show_icons=true&theme=gotham"></a>
 
 <hr>
 
 
 <h3 align="center"> 🤝🏻 In Case Of Any Help </h3>
 <p align="center">
-&nbsp; <a href="https://twitter.com/B4DB0Y_I7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/sifat_muttakim/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/b4dboy_17" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/b4dboy_17" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sifat-muttakim/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:muttakimsifatbin7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
   
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/B4DB0Y_I7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbadboy-sft&screen_name=badboy-sft)
+[![Twitter Follow](https://img.shields.io/twitter/follow/b4dboy_17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fb4dboy17&screen_name=b4dboy_17)
 
-![Profile views](https://gpvc.arturio.dev/badboy-sft)
+![Profile views](https://gpvc.arturio.dev/b4dboy17)
 
 <!--
 **badboy-sft/badboy-sft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
