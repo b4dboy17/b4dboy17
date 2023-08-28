@@ -48,9 +48,19 @@
 </p>
   
 
+<hr>
+<p align="center">
+&nbsp; <a href="https://app.hackthebox.com/profile/416818"><img height=25 src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+&nbsp; <a href="https://hackerone.com/b4db0y_17"><img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+&nbsp; <a href="https://badboy17.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>  
+&nbsp; <a href="https://tryhackme.com/p/b4db0y17"><img height=40 src="https://tryhackme-badges.s3.amazonaws.com/b4db0y17.png" alt="TryHackMe"></a>  
+</p>
+<hr>
+
+  
 [![Twitter Follow](https://img.shields.io/twitter/follow/b4dboy_17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fb4dboy17&screen_name=b4dboy_17)
 
-![Profile views](https://gpvc.arturio.dev/b4dboy17)
+<!-- ![Profile views](https://gpvc.arturio.dev/b4dboy17)-->
 
 <!--
 **badboy-sft/badboy-sft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
